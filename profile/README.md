@@ -10,14 +10,14 @@ of course, we are always happy to learn new ones or even create them!
 Here is a list of languages that we have used or developed tooling
 for:
 
-* [OCaml](https://ocaml.org): we use OCaml a lot for language tooling, and participate in the development of an optimizing compiler
-  for [Jane Street Ltd](https://janestreet.com)
-
 * [Rust](https://www.rust-lang.org/fr): we use Rust for most of our performance critical code, we are also giving
   extensive [training courses on Rust](https://training.ocamlpro.com)
 
 * [COBOL](https://wikipedia.org/wiki/Cobol): as part of our [SuperBOL project](https://get-superbol.com), we modernize tooling for
  COBOL power users, and participate in the maintainance of [GnuCOBOL](https://github.com/OCamlPro/gnucobol)
+
+* [OCaml](https://ocaml.org): we use OCaml a lot for language tooling, and participate in the development of an optimizing compiler
+  for [Jane Street Ltd](https://janestreet.com)
 
 * [WebAssembly (Wasm)](https://webassembly.org/): we work on tooling
   to target Wasm from other languages and to perform bug finding on them
