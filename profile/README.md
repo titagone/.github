@@ -14,7 +14,7 @@ for:
   for [Jane Street Ltd](https://janestreet.com)
 
 * [Rust](https://www.rust-lang.org/fr): we use Rust for most of our performance critical code, we are also giving
-  extensive (training courses on Rust)[https://training.ocamlpro.com]
+  extensive (training courses on Rust](https://training.ocamlpro.com)
 
 * [COBOL](https://wikipedia.org/wiki/Cobol): as part of our [SuperBOL project](https://get-superbol.com), we modernize tooling for
  COBOL power users, and participate in the maintainance of [GnuCOBOL](https://github.com/OCamlPro/gnucobol)
