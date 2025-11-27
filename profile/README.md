@@ -24,7 +24,7 @@ for:
   by performing various Wasm static analysis such as symbolic execution, in particular the [Owi toolbox](https://github.com/ocamlpro/owi)
 
 * [Solidity](https://soliditylang.org/): we have been quite involved in blockchain development in the past (we developed the
-  prototype of the (Tezos blockchain)[https://tezos.com] from 2014 to 2018), and developed tooling for
+  prototype of the [Tezos blockchain](https://tezos.com) from 2014 to 2018), and developed tooling for
   several smart contract programming languages, among which Solidity, Liquidity, Michelson.
 
-You may also be interested in looking at the repositories of our [OCamlPro Research Lab](htttps://github.com/ocamlpro).
+You may also be interested in looking at the repositories of our [OCamlPro Research Lab](https://github.com/ocamlpro).
